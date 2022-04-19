@@ -1,0 +1,11 @@
+br\com\listatarefa\controller\ListaTarefaMB.class
+br\com\dominio\controller\MessagesMB.class
+br\com\listatarefa\utility\Message.class
+br\com\dominio\controller\PessoaMB.class
+br\com\listatarefa\dao\ConnectionFactory.class
+br\com\listatarefa\model\Base.class
+br\com\listatarefa\dao\DAO.class
+br\com\listatarefa\model\ListaTarefa.class
+br\com\dominio\model\Pessoa.class
+br\com\listatarefa\service\ListaTarefaService.class
+br\com\listatarefa\utility\NegocioException.class
